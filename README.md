@@ -3,11 +3,16 @@
 
 This is the repo of all of our files for our project.
 
+### Data used
+
+[Mapping Police Violence](https://mappingpoliceviolence.org/) and the [Washinpost's repo](https://github.com/washingtonpost/data-police-shootings), which also sourced the MPV.
 
 ## Folders
 
 ### Data
 Cointains al our collected data
+
+
 
 
 ## Contributing
