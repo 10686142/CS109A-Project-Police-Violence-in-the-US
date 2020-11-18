@@ -1,0 +1,317 @@
+city,state,pop_est_2019,pop_est_2010,pop_dens_2016_mi,pop_dens_2016_km
+New York,New York,"8,336,817","8,175,133",28317,10933
+Los Angeles,California,"3,979,576","3,792,621",8484,3276
+Chicago,Illinois,"2,693,976","2,695,598",11900,4600
+Houston,Texas,"2,320,268","2,100,263",3613,1395
+Phoenix,Arizona,"1,680,992","1,445,632",3120,1200
+Philadelphia,Pennsylvania,"1,584,064","1,526,006",11683,4511
+San Antonio,Texas,"1,547,253","1,327,407",3238,1250
+San Diego,California,"1,423,851","1,307,402",4325,1670
+Dallas,Texas,"1,343,573","1,197,816",3866,1493
+San Jose,California,"1,021,795","945,942",5777,2231
+Austin,Texas,"978,908","790,390",3031,1170
+Jacksonville,Florida,"911,507","821,784",1178,455
+Fort Worth,Texas,"909,585","741,206",2491,962
+Columbus,Ohio,"898,553","787,033",3936,1520
+Charlotte,North Carolina,"885,708","731,424",2757,1064
+San Francisco,California,"881,549","805,235",18569,7170
+Indianapolis,Indiana,"876,384","820,445",2366,914
+Seattle,Washington,"753,675","608,660",8405,3245
+Denver,Colorado,"727,211","600,158",4521,1746
+Washington,District of Columbia,"705,749","601,723",11148,4304
+Boston,Massachusetts,"692,600","617,594",13938,5381
+El Paso,Texas,"681,728","649,121",2660,1030
+Nashville,Tennessee,"670,820","601,222",1388,536
+Detroit,Michigan,"670,031","713,777",4847,1871
+Oklahoma City,Oklahoma,"655,057","579,999",1053,407
+Portland,Oregon,"654,741","583,776",4793,1851
+Las Vegas,Nevada,"651,319","583,756",4709,1818
+Memphis,Tennessee,"651,073","646,889",2056,794
+Louisville,Kentucky,"617,638","597,337",2339,903
+Baltimore,Maryland,"593,490","620,961",7598,2934
+Milwaukee,Wisconsin,"590,157","594,833",6186,2388
+Albuquerque,New Mexico,"560,513","545,852",2972,1147
+Tucson,Arizona,"548,073","520,116",2299,888
+Fresno,California,"531,576","494,665",4563,1762
+Mesa,Arizona,"518,012","439,041",3514,1357
+Sacramento,California,"513,624","466,488",5059,1953
+Atlanta,Georgia,"506,811","420,003",3539,1366
+Kansas City,Missouri,"495,327","459,787",1528,590
+Colorado Springs,Colorado,"478,221","416,427",2378,918
+Omaha,Nebraska,"478,192","408,958",3356,1296
+Raleigh,North Carolina,"474,069","403,892",3163,1221
+Miami,Florida,"467,963","399,457",12599,4865
+Long Beach,California,"462,628","462,257",9347,3609
+Virginia Beach,Virginia,"449,974","437,994",1850,710
+Oakland,California,"433,031","390,724",7514,2901
+Minneapolis,Minnesota,"429,606","382,578",7660,2960
+Tulsa,Oklahoma,"401,190","391,906",2048,791
+Tampa,Florida,"399,700","335,709",3326,1284
+Arlington,Texas,"398,854","365,438",4100,1600
+New Orleans,Louisiana,"390,144","343,829",2311,892
+Wichita,Kansas,"389,938","382,368",2431,939
+Bakersfield,California,"384,145","347,483",2529,976
+Cleveland,Ohio,"381,009","396,815",4965,1917
+Aurora,Colorado,"379,289","325,078",2356,910
+Anaheim,California,"350,365","336,265",7021,2711
+Honolulu,Hawaii,"345,064","337,256",5815,2245
+Santa Ana,California,"332,318","324,528",12333,4762
+Riverside,California,"331,360","303,871",3999,1544
+Corpus Christi,Texas,"326,586","305,215",1866,720
+Lexington,Kentucky,"323,152","295,803",1123,434
+Henderson,Nevada,"320,189","257,729",2798,1080
+Stockton,California,"312,697","291,707",4977,1922
+St. Paul,Minnesota,"308,096","285,068",5815,2245
+Cincinnati,Ohio,"303,940","296,943",3860,1490
+St. Louis,Missouri,"300,576","319,294",5023,1939
+Pittsburgh,Pennsylvania,"300,286","305,704",5481,2116
+Greensboro,North Carolina,"296,710","269,666",2237,864
+Lincoln,Nebraska,"289,102","258,379",3044,1175
+Anchorage,Alaska,"288,000","291,826",175,68
+Plano,Texas,"287,677","259,841",3990,1540
+Orlando,Florida,"287,442","238,300",2635,1017
+Irvine,California,"287,401","212,375",4057,1566
+Newark,New Jersey,"282,011","277,140",11691,4514
+Durham,North Carolina,"278,993","228,330",2395,925
+Chula Vista,California,"274,492","243,916",5387,2080
+Toledo,Ohio,"272,779","287,208",3451,1332
+Fort Wayne,Indiana,"270,402","253,691",2391,923
+St. Petersburg,Florida,"265,351","244,769",4223,1631
+Laredo,Texas,"262,491","236,091",2544,982
+Jersey City,New Jersey,"262,075","247,597",17848,6891
+Chandler,Arizona,"261,165","236,123",3813,1472
+Madison,Wisconsin,"259,680","233,209",3280,1270
+Lubbock,Texas,"258,862","229,573",2027,783
+Scottsdale,Arizona,"258,069","217,385",1341,518
+Reno,Nevada,"255,601","225,221",2286,883
+Buffalo,New York,"255,284","261,310",6359,2455
+Gilbert,Arizona,"254,114","208,453",3487,1346
+Glendale,Arizona,"252,381","226,721",4161,1607
+North Las Vegas,Nevada,"251,974","216,961",2436,941
+Winston–Salem,North Carolina,"247,945","229,617",1828,706
+Chesapeake,Virginia,"244,835","222,209",703,271
+Norfolk,Virginia,"242,742","242,803",4599,1776
+Fremont,California,"241,110","214,089",3008,1161
+Garland,Texas,"239,928","226,876",4122,1592
+Irving,Texas,"239,798","216,290",3557,1373
+Hialeah,Florida,"233,339","224,669",10995,4245
+Richmond,Virginia,"230,436","204,214",3732,1441
+Boise,Idaho,"228,959","205,671",2718,1049
+Spokane,Washington,"222,081","208,916",3144,1214
+Baton Rouge,Louisiana,"220,236","229,493",2651,1024
+Tacoma,Washington,"217,827","198,397",4251,1641
+San Bernardino,California,"215,784","209,924",3516,1358
+Modesto,California,"215,196","201,165",4934,1905
+Fontana,California,"214,547","196,069",4876,1883
+Des Moines,Iowa,"214,237","203,433",2424,936
+Moreno Valley,California,"213,055","193,365",4006,1547
+Santa Clarita,California,"212,979","176,320",3446,1331
+Fayetteville,North Carolina,"211,657","200,564",1386,535
+Birmingham,Alabama,"209,403","212,237",1452,561
+Oxnard,California,"208,881","197,899",7729,2984
+Rochester,New York,"205,695","210,565",5835,2253
+Port St. Lucie,Florida,"201,846","164,603",1557,601
+Grand Rapids,Michigan,"201,013","188,040",4424,1708
+Huntsville,Alabama,"200,574","180,105",905,349
+Salt Lake City,Utah,"200,567","186,440",1742,673
+Frisco,Texas,"200,490","116,989",2417,933
+Yonkers,New York,"200,370","195,976",11156,4307
+Amarillo,Texas,"199,371","190,695",1968,760
+Glendale,California,"199,303","191,719",6606,2551
+Huntington Beach,California,"199,223","189,992",7459,2880
+McKinney,Texas,"199,177","131,117",2735,1056
+Montgomery,Alabama,"198,525","205,764",1252,483
+Augusta,Georgia,"197,888","195,844",652,252
+Aurora,Illinois,"197,757","197,899",4479,1729
+Akron,Ohio,"197,597","199,110",3188,1231
+Little Rock,Arkansas,"197,312","193,524",1673,646
+Tempe,Arizona,"195,805","161,719",4562,1761
+Columbus,Georgia,"195,769","189,885",913,353
+Overland Park,Kansas,"195,494","173,372",2516,971
+Grand Prairie,Texas,"194,543","175,396",2637,1018
+Tallahassee,Florida,"194,500","181,376",1901,734
+Cape Coral,Florida,"194,495","154,305",1703,658
+Mobile,Alabama,"188,720","195,111",1384,534
+Knoxville,Tennessee,"187,603","178,874",1891,730
+Shreveport,Louisiana,"187,112","199,311",1820,700
+Worcester,Massachusetts,"185,428","181,045",4933,1905
+Ontario,California,"185,010","163,924",3471,1340
+Vancouver,Washington,"184,463","161,791",3728,1439
+Sioux Falls,South Dakota,"183,793","153,888",2312,893
+Chattanooga,Tennessee,"182,799","167,674",1241,479
+Brownsville,Texas,"182,781","175,023",1387,536
+Ft. Lauderdale,Florida,"182,437","165,521",5166,1995
+Providence,Rhode Island,"179,883","178,042",9740,3760
+Newport News,Virginia,"179,225","180,719",2631,1016
+Rancho Cucamonga,California,"177,603","165,269",4413,1704
+Santa Rosa,California,"176,753","167,815",4241,1637
+Peoria,Arizona,"175,961","154,065",934,361
+Oceanside,California,"175,742","167,086",4249,1641
+Elk Grove,California,"174,775","153,015",4022,1553
+Salem,Oregon,"174,365","154,637",3445,1330
+Pembroke Pines,Florida,"173,591","154,019",5109,1973
+Eugene,Oregon,"172,622","156,185",3777,1458
+Garden Grove,California,"171,644","170,883",9714,3751
+Cary,North Carolina,"170,282","135,234",2873,1109
+Fort Collins,Colorado,"170,243","143,986",2943,1136
+Corona,California,"169,868","152,374",4222,1630
+Springfield,Missouri,"167,882","159,498",2033,785
+Jackson,Mississippi,"160,628","173,514",1524,588
+Alexandria,Virginia,"159,428","139,966",10387,4010
+Hayward,California,"159,203","144,186",3493,1349
+Clarksville,Tennessee,"158,146","132,929",1529,590
+Lakewood,Colorado,"157,935","142,980",3599,1390
+Lancaster,California,"157,601","156,633",1698,656
+Salinas,California,"155,465","150,441",6662,2572
+Palmdale,California,"155,079","152,750",1484,573
+Hollywood,Florida,"154,817","140,768",5568,2150
+Springfield,Massachusetts,"153,606","153,060",4830,1860
+Macon,Georgia,"153,159","91,351",612,236
+Kansas City,Kansas,"152,960","145,786",1216,470
+Sunnyvale,California,"152,703","140,081",6944,2681
+Pomona,California,"151,691","149,058",6630,2560
+Killeen,Texas,"151,666","127,921",2680,1030
+Escondido,California,"151,625","143,911",4087,1578
+Pasadena,Texas,"151,227","149,043",3525,1361
+Naperville,Illinois,"148,449","141,853",3802,1468
+Bellevue,Washington,"148,164","122,363",4221,1630
+Joliet,Illinois,"147,344","147,433",2302,889
+Murfreesboro,Tennessee,"146,900","108,755",2360,910
+Midland,Texas,"146,038","111,147",1809,698
+Rockford,Illinois,"145,609","152,871",2325,898
+Paterson,New Jersey,"145,233","146,199",17500,6800
+Savannah,Georgia,"144,464","136,286",1417,547
+Bridgeport,Connecticut,"144,399","144,229",9064,3500
+Torrance,California,"143,592","145,438",7180,2770
+McAllen,Texas,"143,268","129,877",2435,940
+Syracuse,New York,"142,327","145,170",5735,2214
+Surprise,Arizona,"141,664","117,517",1230,470
+Denton,Texas,"141,541","113,383",1433,553
+Roseville,California,"141,500","118,788",3085,1191
+Thornton,Colorado,"141,464","118,772",3829,1478
+Miramar,Florida,"141,191","122,041",4709,1818
+Pasadena,California,"141,029","137,122",6176,2385
+Mesquite,Texas,"140,937","139,824",3045,1176
+Olathe,Kansas,"140,545","125,872",2225,859
+Dayton,Ohio,"140,407","141,527",2522,974
+Carrollton,Texas,"139,248","119,097",3674,1419
+Waco,Texas,"139,236","124,805",1510,580
+Orange,California,"138,669","136,416",5532,2136
+Fullerton,California,"138,632","135,161",6282,2425
+Charleston,South Carolina,"137,566","120,083",1233,476
+West Valley City,Utah,"135,248","129,480",3847,1485
+Visalia,California,"134,605","124,442",3495,1349
+Hampton,Virginia,"134,510","137,436",2629,1015
+Gainesville,Florida,"133,997","124,354",2112,815
+Warren,Michigan,"133,943","134,056",3928,1517
+Coral Springs,Florida,"133,759","121,096",5465,2110
+Cedar Rapids,Iowa,"133,562","126,326",1852,715
+Round Rock,Texas,"133,372","99,887",3396,1311
+Sterling Heights,Michigan,"132,438","129,699",3628,1401
+Kent,Washington,"132,319","92,411",3784,1461
+Columbia,South Carolina,"131,674","129,272",1006,388
+Santa Clara,California,"130,365","116,468",6845,2643
+New Haven,Connecticut,"130,250","129,779",6948,2683
+Stamford,Connecticut,"129,638","122,643",3434,1326
+Concord,California,"129,295","122,067",4221,1630
+Elizabeth,New Jersey,"129,216","124,969",10459,4038
+Athens,Georgia,"126,913","115,452",1060,410
+Thousand Oaks,California,"126,813","126,683",2335,902
+Lafayette,Louisiana,"126,185","120,623",2372,916
+Simi Valley,California,"125,613","124,237",3044,1175
+Topeka,Kansas,"125,310","127,473",2062,796
+Norman,Oklahoma,"124,880","110,925",683,264
+Fargo,North Dakota,"124,662","105,549",2450,950
+Wilmington,North Carolina,"123,744","106,476",2278,880
+Abilene,Texas,"123,420","117,063",1146,442
+Odessa,Texas,"123,334","99,940",2608,1007
+Columbia,Missouri,"123,195","108,500",1856,717
+Pearland,Texas,"122,460","91,252",2453,947
+Victorville,California,"122,385","115,903",1668,644
+Hartford,Connecticut,"122,105","124,775",7083,2735
+Vallejo,California,"121,692","115,942",3951,1525
+Allentown,Pennsylvania,"121,442","118,032",6882,2657
+Berkeley,California,"121,363","112,580",11547,4458
+Richardson,Texas,"121,323","99,223",3963,1530
+Arvada,Colorado,"121,272","106,433",3043,1175
+Ann Arbor,Michigan,"119,980","113,934",4298,1659
+Rochester,Minnesota,"118,935","106,769",2088,806
+Cambridge,Massachusetts,"118,927","105,162",17289,6675
+Sugar Land,Texas,"118,488","78,817",3488,1347
+Lansing,Michigan,"118,210","114,297",2967,1146
+Evansville,Indiana,"117,979","117,429",2526,975
+College Station,Texas,"117,911","93,857",2199,849
+Fairfield,California,"117,133","105,321",2806,1083
+Clearwater,Florida,"116,946","107,685",4415,1705
+Beaumont,Texas,"116,825","118,296",1441,556
+Independence,Missouri,"116,672","116,830",1504,581
+Provo,Utah,"116,618","112,488",2803,1082
+West Jordan,Utah,"116,480","103,712",3520,1360
+Murrieta,California,"116,223","103,466",3324,1283
+Palm Bay,Florida,"115,552","103,190",1676,647
+El Monte,California,"115,487","113,475",12063,4658
+Carlsbad,California,"115,382","105,328",3023,1167
+Temecula,California,"114,761","100,097",3031,1170
+Clovis,California,"114,584","95,631",4404,1700
+Springfield,Illinois,"114,230","116,250",1925,743
+Meridian,Idaho,"114,161","75,092",3584,1384
+Westminster,Colorado,"113,166","106,114",3592,1387
+Costa Mesa,California,"113,003","109,960",7186,2775
+High Point,North Carolina,"112,791","104,371",2015,778
+Manchester,New Hampshire,"112,673","109,565",3339,1289
+Pueblo,Colorado,"112,361","106,595",2058,795
+Lakeland,Florida,"112,136","97,422",1615,624
+Pompano Beach,Florida,"112,118","99,845",4558,1760
+West Palm Beach,Florida,"111,955","99,919",1963,758
+Antioch,California,"111,502","102,372",3772,1456
+Everett,Washington,"111,475","103,019",3275,1264
+Downey,California,"111,126","111,772",9134,3527
+Lowell,Massachusetts,"110,997","106,519",8129,3139
+Centennial,Colorado,"110,937","100,377",3727,1439
+Elgin,Illinois,"110,849","108,188",2998,1158
+Richmond,California,"110,567","103,701",3648,1409
+Peoria,Illinois,"110,417","115,007",2371,915
+Broken Arrow,Oklahoma,"110,198","98,850",1741,672
+Miami Gardens,Florida,"110,001","107,167",6212,2398
+Billings,Montana,"109,577","104,170",2525,975
+Jurupa Valley,California,"109,527",0,2414,932
+Sandy Springs,Georgia,"109,452","93,853",2804,1083
+Gresham,Oregon,"109,381","105,594",4786,1848
+Lewisville,Texas,"109,212","95,290",2852,1101
+Hillsboro,Oregon,"109,128","91,611",4207,1624
+Ventura[,California,"109,106","106,433",5027,1941
+Greeley,Colorado,"108,649","92,889",2176,840
+Inglewood,California,"108,151","109,673",12160,4700
+Waterbury,Connecticut,"107,568","110,366",3799,1467
+League City,Texas,"107,536","83,560",1992,769
+Santa Maria,California,"107,263","99,553",4662,1800
+Tyler,Texas,"106,985","96,900",1852,715
+Davie[,Florida,"106,306","91,992",2919,1127
+Lakewood[,New Jersey,"106,300","92,843",4079,1575
+Daly City,California,"106,280","101,123",14009,5409
+Boulder,Colorado,"105,673","97,385",4358,1683
+Allen,Texas,"105,623","84,246",3715,1434
+West Covina,California,"105,101","106,098",6740,2600
+Sparks,Nevada,"105,006","90,264",2810,1080
+Wichita Falls,Texas,"104,683","104,553",1450,560
+Green Bay,Wisconsin,"104,578","104,057",2316,894
+San Mateo,California,"104,430","97,207",8592,3317
+Norwalk,California,"103,949","105,549",10946,4226
+Rialto,California,"103,526","99,171",4633,1789
+Las Cruces,New Mexico,"103,432","97,618",1323,511
+Chico,California,"103,301","86,187",3102,1198
+El Cajon,California,"102,708","99,478",7156,2763
+Burbank,California,"102,511","103,340",6003,2318
+South Bend,Indiana,"102,026","101,168",2457,949
+Renton,Washington,"101,751","90,927",4314,1666
+Vista,California,"101,638","93,834",5436,2099
+Davenport,Iowa,"101,590","99,685",1631,630
+Edinburg,Texas,"101,170","77,100",2691,1039
+Tuscaloosa,Alabama,"101,129","90,468",1399,540
+Carmel,Indiana,"101,068","79,191",2128,822
+Spokane Valley,Washington,"101,060","89,755",2681,1035
+San Angelo,Texas,"101,004","93,200",1681,649
+Vacaville,California,"100,670","92,428",3449,1332
+Clinton[,Michigan,"100,471","96,796",3573,1380
+Bend,Oregon,"100,421","76,639",3034,1171
+Woodbridge[,New Jersey,"100,145","99,585",4351,1680
