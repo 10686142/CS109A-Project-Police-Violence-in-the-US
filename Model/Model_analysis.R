@@ -264,7 +264,7 @@ gg_mod_1_consol <- ggplot() +
   theme(panel.border = element_blank(),
       #  legend.position="none",
         legend.title = element_blank(),
-        text = element_text(size=25, family="Latin Modern Roman 10 Regular"),
+        text = element_text(size=26, family="Latin Modern Roman 10 Regular"),
         title = element_text(size=16))
 gg_mod_1_consol
 
@@ -346,8 +346,8 @@ gg_mod_1_regionconsol <- ggplot() +
   theme(panel.border = element_blank(),
         #  legend.position="none",
         legend.title = element_blank(),
-        text = element_text(size=25, family="Latin Modern Roman 10 Regular"),
-        title = element_text(size=16))
+        text = element_text(size=26, family="Latin Modern Roman 10 Regular"),
+        title = element_text(size=18))
 gg_mod_1_regionconsol
 
 ggsave(here::here("/Model/","plot_evolutionrregion.png"), gg_mod_1_regionconsol, width=9, height=8)
