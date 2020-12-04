@@ -48,25 +48,25 @@ library(here)
 # ##### IMPORT OUTCOME DATA
 # ########################################
 #
-# df_outcome <- read_csv(here::here("/data/","fatal-police-shootings-data-wsp.csv"))
+# df_outcome <- read_csv(here::here("/data/","fatal-police-Police Killings-data-wsp.csv"))
 #
 # df_outcome$year <- as.numeric(substr(df_outcome$date,0,4))
 #
 # df_outcome_clean <- df_outcome %>%
 #   group_by(state, year) %>%
-#   summarise(shootings_total = n())
+#   summarise(Police Killings_total = n())
 #
 # df_outcome_black <- df_outcome %>% filter(race == "B") %>%
 #   group_by(state, year) %>%
-#   summarise(shootings_black = n())
+#   summarise(Police Killings_black = n())
 #
 # df_outcome_white <- df_outcome %>% filter(race == "W") %>%
 #   group_by(state, year) %>%
-#   summarise(shootings_white = n())
+#   summarise(Police Killings_white = n())
 #
 # df_outcome_other <- df_outcome %>% filter(!(race %in% c("B", "W"))) %>%
 #   group_by(state, year) %>%
-#   summarise(shootings_other = n())
+#   summarise(Police Killings_other = n())
 #
 # df_outcome_clean <- df_outcome_clean %>% left_join(df_outcome_black, by = c("state", "year"))
 # df_outcome_clean <- df_outcome_clean %>% left_join(df_outcome_white, by = c("state", "year"))
@@ -118,10 +118,10 @@ library(here)
 # ########################################
 # temp <- df_outcome_clean
 #
-# temp$rate_total <- temp$shootings_total / temp$pop_total
-# temp$rate_black <- temp$shootings_black / temp$pop_total
-# temp$rate_white <- temp$shootings_white / temp$pop_total
-# temp$rate_other <- temp$shootings_other / temp$pop_total
+# temp$rate_total <- temp$Police Killings_total / temp$pop_total
+# temp$rate_black <- temp$Police Killings_black / temp$pop_total
+# temp$rate_white <- temp$Police Killings_white / temp$pop_total
+# temp$rate_other <- temp$Police Killings_other / temp$pop_total
 #
 # ########################################
 # # CONSTRUCT CONTROL VARIABLES
@@ -169,7 +169,7 @@ gg_mod_1_total <- ggplot() +
   geom_pointrange(data = head(mod_1_total, 5), inherit.aes=FALSE, aes(x=term, y=estimate, ymin=conf.low, ymax=conf.high, color = V8)) +
   geom_hline(yintercept=0, linetype="dotted") +
   geom_vline(xintercept = 0, linetype="dotted") +
-  labs(title = "Evolution in Shooting Rate Per Capita", x = "Months from General Election", y = "Log Points (Relative to Year 2015)") +
+  labs(title = "Evolution in Police Killing Rate Per Capita", x = "Months from General Election", y = "Log Points (Relative to Year 2015)") +
   theme_bw() +
   theme(panel.border = element_blank(),
         legend.position="none",
@@ -194,7 +194,7 @@ gg_mod_1_black <- ggplot() +
   geom_pointrange(data = head(mod_1_black, 5), inherit.aes=FALSE, aes(x=term, y=estimate, ymin=conf.low, ymax=conf.high, color = V8)) +
   geom_hline(yintercept=0, linetype="dotted") +
   geom_vline(xintercept = 0, linetype="dotted") +
-  labs(title = "Evolution in Shooting Rate Per Capita", x = "Months from General Election", y = "Log Points (Relative to Year 2015)") +
+  labs(title = "Evolution in Police Killing Rate Per Capita", x = "Months from General Election", y = "Log Points (Relative to Year 2015)") +
   theme_bw() +
   theme(panel.border = element_blank(),
         legend.position="none",
@@ -219,7 +219,7 @@ gg_mod_1_white <- ggplot() +
   geom_pointrange(data = head(mod_1_white, 5), inherit.aes=FALSE, aes(x=term, y=estimate, ymin=conf.low, ymax=conf.high, color = V8)) +
   geom_hline(yintercept=0, linetype="dotted") +
   geom_vline(xintercept = 0, linetype="dotted") +
-  labs(title = "Evolution in Shooting Rate Per Capita", x = "Months from General Election", y = "Log Points (Relative to Year 2015)") +
+  labs(title = "Evolution in Police Killing Rate Per Capita", x = "Months from General Election", y = "Log Points (Relative to Year 2015)") +
   theme_bw() +
   theme(panel.border = element_blank(),
         legend.position="none",
@@ -244,7 +244,7 @@ gg_mod_1_other <- ggplot() +
   geom_pointrange(data = head(mod_1_other, 5), inherit.aes=FALSE, aes(x=term, y=estimate, ymin=conf.low, ymax=conf.high, color = V8)) +
   geom_hline(yintercept=0, linetype="dotted") +
   geom_vline(xintercept = 0, linetype="dotted") +
-  labs(title = "Evolution in Shooting Rate Per Capita -- Other", x = "Months from General Election", y = "Log Points (Relative to Year 2015)") +
+  labs(title = "Evolution in Police Killing Rate Per Capita -- Other", x = "Months from General Election", y = "Log Points (Relative to Year 2015)") +
   theme_bw() +
   theme(panel.border = element_blank(),
         legend.position="none",
@@ -256,15 +256,15 @@ mod_1_consol <- rbind(head(mod_1_total, 5), head(mod_1_black, 5), head(mod_1_whi
 gg_mod_1_consol <- ggplot() +
   scale_fill_manual(values=c("grey88")) +
   scale_linetype_manual(values = c("longdash","longdash","longdash")) +
-  geom_pointrange(data = mod_1_consol, position = position_jitter(w = 0.3, h = 0), inherit.aes=FALSE, aes(x=term, y=estimate, ymin=conf.low, ymax=conf.high, color = V8, shape = V8)) +
+  geom_pointrange(data = mod_1_consol, position = position_jitter(w = 0.3, h = 0), inherit.aes=FALSE, aes(x=term, y=estimate, ymin=conf.low, ymax=conf.high, color = V8, shape = V8), size = 1) +
   geom_hline(yintercept=0, linetype="dotted") +
   geom_vline(xintercept = 0, linetype="dotted") +
-  labs(title = "Evolution in Shooting Rate Per Capita, by Race", x = "", y = "Log Points (Relative to Year 2015)", caption = "Vertical lines represent two standard deviations.") +
+  labs(title = "Evolution in Police Killing Rate Per Capita, by Race", x = "", y = "Log Points (Relative to Year 2015)", caption = "Vertical lines represent two standard deviations.") +
   theme_bw() +
   theme(panel.border = element_blank(),
       #  legend.position="none",
         legend.title = element_blank(),
-        text = element_text(size=25, family="Latin Modern Roman 10 Regular"),
+        text = element_text(size=26, family="Latin Modern Roman 10 Regular"),
         title = element_text(size=16))
 gg_mod_1_consol
 
@@ -338,16 +338,16 @@ mod_1_regionconsol <- rbind(head(mod_1_west, 5), head(mod_1_south, 5), head(mod_
 gg_mod_1_regionconsol <- ggplot() +
   scale_fill_manual(values=c("grey88")) +
   scale_linetype_manual(values = c("longdash","longdash","longdash")) +
-  geom_pointrange(data = mod_1_regionconsol, position = position_jitter(w = 0.3, h = 0), inherit.aes=FALSE, aes(x=term, y=estimate, ymin=conf.low, ymax=conf.high, color = V8, shape = V8)) +
+  geom_pointrange(data = mod_1_regionconsol, position = position_jitter(w = 0.3, h = 0), inherit.aes=FALSE, aes(x=term, y=estimate, ymin=conf.low, ymax=conf.high, color = V8, shape = V8), size = 1) +
   geom_hline(yintercept=0, linetype="dotted") +
   geom_vline(xintercept = 0, linetype="dotted") +
-  labs(title = "Evolution in Shooting Rate Per Capita, by Region", x = "", y = "Log Points (Relative to Year 2015)", caption = "Vertical lines represent two standard deviations.") +
+  labs(title = "Evolution in Police Killing Rate Per Capita, by Region", x = "", y = "Log Points (Relative to Year 2015)", caption = "Vertical lines represent two standard deviations.") +
   theme_bw() +
   theme(panel.border = element_blank(),
         #  legend.position="none",
         legend.title = element_blank(),
-        text = element_text(size=25, family="Latin Modern Roman 10 Regular"),
-        title = element_text(size=16))
+        text = element_text(size=26, family="Latin Modern Roman 10 Regular"),
+        title = element_text(size=18))
 gg_mod_1_regionconsol
 
 ggsave(here::here("/Model/","plot_evolutionrregion.png"), gg_mod_1_regionconsol, width=9, height=8)
